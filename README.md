@@ -168,9 +168,8 @@ sudo update-grub
 
 ![Accessibility Settings](https://res.cloudinary.com/dtdhmbtcg/image/upload/v1726354588/Screenshot_from_2024-09-15_04-26-11_n4hvrd.png)
 
-
 ### Goto Tweaks > [Fonts]() >
 
 ![Gnome Tweaks](https://res.cloudinary.com/dtdhmbtcg/image/upload/v1726356268/Screenshot_from_2024-09-15_04-54-10_rftpfa.png)
 
-# Happy Linux 🐧
+# Linux🐧 Love❤️
