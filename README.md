@@ -22,7 +22,7 @@ git clone https://github.com/christitustech/mybash
 ```
 
 ```bash
-cd /mybash/ && sudo /setup.sh
+cd ./mybash/ && sudo ./setup.sh
 ```
 
 - Apply any nerd font in terminal.
@@ -45,19 +45,19 @@ sudo apt install gedit && sudo gedit ~/.bashrc # if not exist before
 
 ```bash
 mkdir customization && cd customization
-git clone && cd /linux-customization/
+git clone && cd ./linux-customization/
 ```
 
 - Unzip zip files in subfolders to directly use upcoming commands.
 
 ```bash
 sudo apt install unzip
-unzip /cursors/Bibata-Modern-Ice.tar.xz
-unzip /grub-theme/ubuntu-1080p.zip
-unzip /grub-theme/Vimix-1080p.tar.xz
-unzip /gtk-theme/Material-Black-Blueberry-2.9.9-07.tar
-unzip /icons/kora-1-6-7.tar.xz
-unzip /shell-theme/01-Flat-Remix-Blue-20240813.tar.xz
+unzip ./cursors/Bibata-Modern-Ice.tar.xz
+unzip ./grub-theme/ubuntu-1080p.zip
+unzip ./grub-theme/Vimix-1080p.tar.xz
+unzip ./gtk-theme/Material-Black-Blueberry-2.9.9-07.tar
+unzip ./icons/kora-1-6-7.tar.xz
+unzip ./shell-theme/01-Flat-Remix-Blue-20240813.tar.xz
 ```
 
 ## Step 4 - [GNOME Customization](https://www.gnome-look.org/browse/)
