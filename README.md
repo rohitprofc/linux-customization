@@ -46,7 +46,7 @@ sudo apt install gedit && sudo gedit ~/.bashrc # if not exist before
 
 ```bash
 mkdir customization && cd customization
-git clone && cd ./linux-customization/
+git clone https://github.com/rohitprofc/linux-customization.git && cd ./linux-customization/
 ```
 
 - Unzip zip files in subfolders to directly use upcoming commands.
