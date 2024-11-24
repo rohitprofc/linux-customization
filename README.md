@@ -12,7 +12,7 @@
 ```bash
 sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
 sudo apt update
-sudo apt install fastfetch
+sudo apt install fastfetch git curl zoxide
 sudo apt update && sudo apt upgrade
 ```
 
