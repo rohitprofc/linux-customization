@@ -68,7 +68,7 @@ unzip ./shell-theme/01-Flat-Remix-Blue-20240813.tar.xz
 - Open Terminal (Ctrl+Shift+T).
 
 ```bash
-sudo /home/$USER/customization/linux-customization/wallpapers/Easy_Install.sh
+sudo bash /home/$USER/customization/linux-customization/wallpapers/Easy_Install.sh
 ```
 
 ### 2 - [Icons](./icons/)
@@ -118,7 +118,12 @@ sudo cp -r /home/$USER/customization/linux-customization/gtk-theme/Material-Blac
 - Open Terminal (Ctrl+Shift+T).
 
 ```bash
-sudo /home/$USER/customization/linux-customization/grub-theme/grub-theme/Vimix-1080p/install.sh
+cd ./customization
+cd ./linux-customization
+cd ./grub-theme
+cd ./grub-theme
+cd ./Vimix-1080p
+sudo ./install.sh
 ```
 
 - Copy theme in grub directory.
