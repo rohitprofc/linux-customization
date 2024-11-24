@@ -23,6 +23,7 @@ git clone https://github.com/christitustech/mybash
 
 ```bash
 cd ./mybash/ && sudo ./setup.sh
+source ~/.bashrc
 ```
 
 - Apply any nerd font in terminal.
